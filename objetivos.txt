@@ -3,3 +3,5 @@ OBJETIVOS DEL MASTER FULL STACK:
     buenas prácticas y el uso de tecnologías actuales.
 2. Actualizar y ampliar mis competencias técnicas para mejorar mi desempeño profesional 
     y aumentar mi competitividad en el mercado laboral.
+3. Optimizar mi capacidad para desarrollar soluciones completas y escalables, aplicando 
+    metodologías y herramientas alineadas con las exigencias del entorno profesional actual.
