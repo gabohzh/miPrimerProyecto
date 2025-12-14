@@ -1,0 +1,3 @@
+OBJETIVOS DEL MASTER FULL STACK:
+1. Consolidar y profundizar mis conocimientos full stack, reforzando fundamentos, 
+    buenas prácticas y el uso de tecnologías actuales.
