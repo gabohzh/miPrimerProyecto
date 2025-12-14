@@ -1,0 +1,5 @@
+CONOCIMIENTOS PREVIOS EN PROGRAMACION:
+1. Lenguajes: Java, PHP, Javascript, Typescript.
+2. Frameworks: Spring boot, Laravel, React, React native, Angular.
+3. Versionamiento: Github.
+4. Otros: Docker.
